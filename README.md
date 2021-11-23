@@ -4,7 +4,7 @@ Ejecutar el siguiente comando.
 ```
 npm install
 ```
-##Temas Vistos
+## Temas Vistos
 1) Requerir información de otros archivos.
 2) Requerir paquetes.
 3) Importar archivos personalizados.
