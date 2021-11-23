@@ -1,4 +1,4 @@
-## Multiplicar consola App - Node
+## Multiplicar Consola App - Node
 Esta es una aplicación para generar archivos de tablas de multiplicar.
 Ejecutar el siguiente comando.
 ```aidl
